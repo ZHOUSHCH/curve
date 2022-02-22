@@ -1,5 +1,1 @@
-# curve
-welcome to cueve.
-1，文字识别引擎之一是百度文字识别，代码中账号密码用xxx代替，可替换为自己的。也可屏蔽此功能。该工程支持本地和在线2种文字识别方式。
-2，rec_graph为识别图片格式曲线图。
-3，rec_pdf为识别PDF格式曲线图。
+Thanks to the “Commune of Scientific Engineers” platform of idea exchanging in the Institute of physics, Chinese Academy of Sciences, the AI-Curve of ScienceAI subproject has been completed. This tool makes an AI implementation of the simple and repetitive work of scientists: opening PDF, grasping the key graph curve and converting it into original datasheet, sending and receiving email. This work has been published as a chapter in the ebook <<Advances in Transdisciplinary Engineering>> and available online for free download: https://doi.org/10.3233/atde220079 . If any user in the world needs to digitize the curve, he just needs to send an email scienceai@sina.com , including the keyword "curve" in the title and attaching the pure curve picture (a JPG file) or the original PDF file, then you will soon receive an automatic reply from ScienceAI.
